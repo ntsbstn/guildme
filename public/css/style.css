@@ -1,0 +1,23 @@
+/*
+
+* Override Pages default styles or create your own styles here
+
+*/
+
+
+/**
+  * Layout
+**/
+
+.flex {
+    display: flex;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.social-wrapper .social .cover-photo {
+    background-position: 30%;
+}
